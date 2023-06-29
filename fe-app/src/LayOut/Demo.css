@@ -1,0 +1,21 @@
+.button-columns {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .button-container button {
+    margin-bottom: 10px;
+  }
+  
